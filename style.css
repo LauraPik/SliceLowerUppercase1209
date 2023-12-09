@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-group{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+.input-group .form-control{
+    width: 15rem;
+    margin-top: 1rem;
+}
+.input-group .description{
+    margin-top: 2rem;
+}
+
+.input-group .border-box{
+    border-radius: 25px 25px solid white;
+    padding: 1rem;
+    width: 10rem;
+    background-color: azure;
+}
